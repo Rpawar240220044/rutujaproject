@@ -1,2 +1,2 @@
 # rutujaproject
-This is my first git rapository
+This is my first git Repository
